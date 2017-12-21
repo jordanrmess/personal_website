@@ -127,15 +127,12 @@ body {
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
           color: #212529; }
+
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
             color: #F05F40; } }
 
-video{
-  position: absolute;
-}
 header.masthead {
-  position:relative;
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-position: center center;
@@ -233,3 +230,11 @@ header.masthead {
     background-color: #ee4b28 !important; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important; }
+
+video{
+position: relative;
+}
+
+.text-overlay{
+  position: absolute;
+}
