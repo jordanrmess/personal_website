@@ -131,6 +131,9 @@ body {
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
             color: #F05F40; } }
 
+video{
+  position: relative;
+}
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
