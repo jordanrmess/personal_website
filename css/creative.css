@@ -135,11 +135,12 @@ body {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-position: center center;
+/*  background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; }
+  background-size: cover; **/}
+  
   header.masthead hr {
     margin-top: 30px;
     margin-bottom: 30px; }
@@ -230,11 +231,3 @@ header.masthead {
     background-color: #ee4b28 !important; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important; }
-
-video{
-position: relative;
-}
-
-.text-overlay{
-  position: absolute;
-}
