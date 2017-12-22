@@ -20,6 +20,7 @@ hr.light {
   border-color: #fff; }
 
 a {
+  font-family: 'Roboto', sans-serif;
   color: #F05F40;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
