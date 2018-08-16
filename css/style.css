@@ -540,6 +540,33 @@ img.img-thumbnail.team-img {
 	background-attachment: fixed;
 	color:#f6f6f6;
 }
+
+#contact .box-style {
+	width:400px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius: 6px;
+	color:black;
+}
+
+#contact .email-box {
+	height:40px; 
+}
+
+#contact .message-box {
+	height:150px;
+}
+
+#contact .send-button{ 
+	color: darkslategrey;
+    background-color: #bdcebe;
+	width: 75px;
+	border-radius: 12px;
+}
+#contact .send-button:hover {
+    background-color: black; /* Green */
+    color: white;
+}
 #contact .contact-item {
 	padding: 10px;
 	margin: 10px;
